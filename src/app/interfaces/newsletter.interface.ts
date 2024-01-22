@@ -1,3 +1,4 @@
 interface NewsletterResponse {
     message: string;
 }
+
